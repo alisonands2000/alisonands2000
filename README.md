@@ -1,4 +1,4 @@
-This account is where I keep all my relevant projects. I actively contribute to my primary account: [](alisonands)
+This account is where I keep all my relevant projects. I actively contribute to my primary account: [alisonands](github.com/alisonands)
 
 <!--
 **alisonands2000/alisonands2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
